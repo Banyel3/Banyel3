@@ -92,7 +92,7 @@ Music fuels my code — can't ship features without a good playlist 🎵
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄_View_My_Resume-2B579A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bvbD5qdymQq3zbYMrBgRTm-k4cmBVSpk/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_View_My_Resume-2B579A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1hiETDI7yr0xmoQmBAp-C6V9VLA9Z9B8f/view?usp=sharing)
 
 </div>
 

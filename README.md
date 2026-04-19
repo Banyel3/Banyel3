@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Vaniel%20Cornelio&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automations%20Specialist&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Vaniel%20Cornelio&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+scalable+systems+%F0%9F%9A%80;Crafting+elegant+backend+solutions+%E2%9A%99%EF%B8%8F;From+Zamboanga%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+scalable+systems+%F0%9F%9A%80;Full+Stack+%26+Cloud+Engineering+%E2%9A%99%EF%B8%8F;From+Zamboanga%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,13 +25,13 @@
 <td width="50%" valign="top">
 
 ### 🔭 Currently Working On
-**iAyos** — A full-stack application built with NextJS & Django
+**DriftCode** — An open source project
 
 ### 🌱 Currently Learning
-AWS • Cloud Engineering • Systems Architecture
+Pursuing AWS Cloud Certification • Systems Architecture • DevOps
 
 ### 💬 Ask Me About
-Databases • Systems Architecture • Backend Development
+Databases • Systems Architecture • Backend Development • Cloud Infrastructure
 
 </td>
 <td width="50%" valign="top">
@@ -39,8 +39,8 @@ Databases • Systems Architecture • Backend Development
 ### 👯 Looking to Collaborate
 Open source projects that make a difference
 
-### ⚡ Fun Fact
-Music fuels my code — can't ship features without a good playlist 🎵
+### 🌩️ Cloud Focus
+AWS • Cloud Engineering • DevOps • Infrastructure as Code
 
 ### 📫 Reach Me
 **cornelio.vaniel38@gmail.com**
@@ -57,17 +57,22 @@ Music fuels my code — can't ship features without a good playlist 🎵
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### DevOps & Tools
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
